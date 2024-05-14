@@ -26,6 +26,8 @@ const SPEAKERS = [
     { value: 'Stephen', label: 'Stephen (Male)' },
     { value: 'Kevin', label: 'Kevin (Male child)' },
     { value: 'Justin', label: 'Justin (Male child)' },
+    { value: 'pocpatient', label: 'pocpatient (Male child)' },
+
 ];
 
 type AudioLineBoxProps = {
