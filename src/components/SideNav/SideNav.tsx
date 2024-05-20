@@ -40,6 +40,13 @@ export default function SideNav({ activeHref }: SideNavProps) {
         { type: 'divider' },
         {
             type: 'link',
+            text: 'HealthScribe QnA',
+            href: 'https://dev-branch.dwbkzfep8lpka.amplifyapp.com/',
+            external: true,
+        },
+        { type: 'divider' },
+        {
+            type: 'link',
             text: 'AWS HealthScribe',
             href: 'https://aws.amazon.com/healthscribe',
             external: true,
